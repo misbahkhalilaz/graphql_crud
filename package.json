@@ -1,0 +1,22 @@
+{
+	"name": "ems",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"startgapi": "node index"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"json-server": "^0.16.1",
+		"nodemon": "^2.0.4"
+	},
+	"dependencies": {
+		"express": "^4.17.1",
+		"express-graphql": "^0.9.0",
+		"graphql": "^15.0.0",
+		"node-fetch": "^2.6.0",
+		"request-promise": "^4.2.5"
+	}
+}

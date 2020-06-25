@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 40,
+      "did": 20,
+      "userid": 20,
+      "jobcode": "boss",
+      "resume": "drivepath",
+      "joiningdate": "20-12-2020"
+    },
+    {
+      "id": 1,
+      "did": 3,
+      "userid": 2,
+      "jobcode": "boss",
+      "resume": "drivepath",
+      "joiningdate": "20-12-2020"
+    },
+    {
+      "id": 2,
+      "did": 3,
+      "userid": 2,
+      "jobcode": "boss",
+      "resume": "drivepath",
+      "joiningdate": "20-12-2020"
+    }
+  ],
+  "users": [
+    {
+      "userid": 1,
+      "username": "John",
+      "mobile": "03XX-XXXXXXX",
+      "email": "someone@mail.com",
+      "address": "residence",
+      "password": "any pass",
+      "roleid": 1
+    },
+    {
+      "userid": 2,
+      "username": "John",
+      "mobile": "03XX-XXXXXXX",
+      "email": "someone@mail.com",
+      "address": "residence",
+      "password": "any pass",
+      "roleid": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "role": "data entry operator",
+      "description": "enter data"
+    },
+    {
+      "id": 2,
+      "role": "data viewer",
+      "description": "view data"
+    }
+  ]
+}
